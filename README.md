@@ -1,4 +1,8 @@
-##Hi there 👋
+# Hi there, I'm Tarush 👋
+
+- 🔭 I’m currently working on (exam_error)
+- 🌱 I’m currently learning (exam_error)
+- 🥅 2023 Goals: Learn more about WebDev and Android Apps
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarush10000&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ovi" />
 
@@ -8,11 +12,15 @@
 
 
 <!--Links-->
-## Connect With Me
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white"/>](https://www.linkedin.com/in/tarush-agarwal-7b0a68249/)
+### Connect With Me
+[<img height="30" width="30" src="https://cdn.simpleicons.org/linkedin/white"/>](https://www.linkedin.com/in/tarush-agarwal-7b0a68249/)
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.simpleicons.org/Instagram/white"/>](https://www.instagram.com/tar10000/)
+[<img height="30" width="30" src="https://cdn.simpleicons.org/Instagram/white"/>](https://www.instagram.com/tar10000/)
 &nbsp;&nbsp;
+
+
+### Nerdy Stuff
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 <!--
 **tarush10000/tarush10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
