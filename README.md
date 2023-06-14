@@ -2,6 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarush10000&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ovi" />
 
+## Connect With Me
+[<img height="32" width="32" src="https://cdn.simpleicons.org/Instagram/white"/>](https://www.google.com)
 <!--
 **tarush10000/tarush10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
