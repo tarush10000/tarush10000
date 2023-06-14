@@ -7,15 +7,10 @@
 
 <!--Links-->
 ### Connect With Me
-[<img height="30" width="30" media="(prefers-color-scheme: dark)" src="https://cdn.simpleicons.org/linkedin/white"/>](https://www.linkedin.com/in/tarush-agarwal-7b0a68249/)
-&nbsp;&nbsp;
-[<img height="30" width="30" media="(prefers-color-scheme: dark)" src="https://cdn.simpleicons.org/Instagram/white"/>](https://www.instagram.com/tar10000/)
-&nbsp;&nbsp;
 [<img height="30" width="30" media="(prefers-color-scheme: light)" src="https://cdn.simpleicons.org/linkedin"/>](https://www.linkedin.com/in/tarush-agarwal-7b0a68249/)
 &nbsp;&nbsp;
 [<img height="30" width="30" media="(prefers-color-scheme: light)" src="https://cdn.simpleicons.org/Instagram"/>](https://www.instagram.com/tar10000/)
 &nbsp;&nbsp;
-
 
 ### Nerdy Stuff
 ![Snake animation](https://github.com/tarush10000/tarush10000/blob/output/github-contribution-snake.svg)
