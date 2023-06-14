@@ -17,6 +17,6 @@
 ![Snake animation](https://github.com/tarush10000/tarush10000/blob/output/github-contribution-snake.svg)
 &nbsp;  
 <p align ="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarush10000&layout=compact&theme=tokyonight&hide_border=TRUE"/><br>
-  <img src="https://tenor.com/en-GB/view/one-piece-zoro-vs-king-king-of-hell-one-piece-1062-episode-1062-gif-5559355660340132739">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarush10000&layout=compact&theme=tokyonight&hide_border=TRUE"/><br><br>
+  <img src="one-piece-zoro-vs-king.gif">
 </p>
