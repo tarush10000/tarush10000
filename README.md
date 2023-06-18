@@ -17,5 +17,5 @@
 ![Snake animation](https://github.com/tarush10000/tarush10000/blob/output/github-contribution-snake.svg)
 &nbsp;  
 <p align ="center">
-  <img src="one-piece-zoro-vs-king.gif">
+  <img src="gif/monke.gif">
 </p>
