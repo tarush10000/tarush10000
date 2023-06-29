@@ -1,7 +1,7 @@
 # Hi there, I'm Tarush 👋
 
-- 🔭 I’m currently working on (exam_error)
-- 🌱 I’m currently learning (exam_error)
+- 🔭 I’m currently working on TheIndianVidyarthi Website
+- 🌱 I’m currently learning Webdev and JS
 - 🥅 2023 Goals: Learn more about WebDev and Android Apps
 
 
