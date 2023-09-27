@@ -1,7 +1,7 @@
 # Hi there, I'm Tarush 👋
 
-- 🔭 I’m currently working on TheIndianVidyarthi Website
-- 🌱 I’m currently learning Webdev and JS
+- 🔭 I’m currently working on IEEE TEMS Website and FixrZ
+- 🌱 I’m currently learning Webdev, ThreeJS and Tkinter
 - 🥅 2023 Goals: Learn more about WebDev and Android Apps
 
 
@@ -16,6 +16,7 @@
 ### Nerdy Stuff
 ![Snake animation](https://github.com/tarush10000/tarush10000/blob/output/github-contribution-snake.svg)
 &nbsp;  
+
 <p align ="center">
   <img src="gif/monke.gif">
 </p>
