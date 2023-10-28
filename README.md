@@ -12,11 +12,6 @@
 &nbsp;&nbsp;
 [<img height="30" width="30" media="(prefers-color-scheme: light)" src="https://cdn.simpleicons.org/Instagram"/>](https://www.instagram.com/tar10000/)
 &nbsp;&nbsp;
-  
-### Nerdy Stuff
-<p align ="center">
-  <img src="gif/monke.gif">
-</p>
 
 ### Some of my projects
 
@@ -44,3 +39,8 @@
 
 - **Languages Used:** Python (Qt for frontend), and various libraries for backend
 - **Description:** A software tool for computer troubleshooting and solutions. It provides features such as cache cleaning, disk defragmentation, and Windows Scan
+
+### Nerdy Stuff
+<p align ="center">
+  <img src="gif/monke.gif">
+</p>
