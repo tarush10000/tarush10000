@@ -36,6 +36,8 @@
 <img src="https://github.com/tarush10000/tarush10000/assets/62472697/9b7751de-0bce-463b-91fd-c815e4e99f8e" width="480" height="250">
 
 [Check the repo here](https://github.com/tarush10000/FixerZ) <br>
+[Check the project here](https://github.com/tarush10000/FixerZ/releases/tag/FixerZ)
+
 
 - **Languages Used:** Python (Qt for frontend), and various libraries for backend
 - **Description:** A software tool for computer troubleshooting and solutions. It provides features such as cache cleaning, disk defragmentation, and Windows Scan
