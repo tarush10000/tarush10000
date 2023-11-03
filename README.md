@@ -32,6 +32,15 @@
 - **Languages Used:** HTML, CSS, JavaScript
 - **Description:** The official website for the student welfare organization "The Indian Vidyarthi"
 
+#### StarPath Website
+<img src="https://github.com/tarush10000/tarush10000/assets/62472697/80ba65ea-d095-426f-a9fb-871c0a9c6137" width="480" height="250">
+
+[Check the repo here](https://github.com/HardikBansal206/StarPath-Space-Travel-Website) <br>
+[Check the project here](https://starpath.netlify.app/)
+
+- **Languages Used:** HTML, CSS, JavaScript
+- **Description:**  A fun project to learn HTML, CSS and JS for an intra-club competition (IEEE - TEMS)
+
 #### FixerZ
 <img src="https://github.com/tarush10000/tarush10000/assets/62472697/9b7751de-0bce-463b-91fd-c815e4e99f8e" width="480" height="250">
 
