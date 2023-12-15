@@ -1,8 +1,8 @@
 # Hi there, I'm Tarush 👋
 
-- 🔭 I’m currently working on IEEE TEMS Website and FixrZ
-- 🌱 I’m currently learning Webdev, ThreeJS and Tkinter
-- 🥅 2023 Goals: Learn more about WebDev and PyQt5
+- 🔭 I’m currently working on IEEE TEMS Website and HospMan
+- 🌱 I’m currently learning Webdev, React and PyQT
+- 🥅 2023 Goals: Finish 2023
 
 
 <!--Links-->
