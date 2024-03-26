@@ -1,8 +1,8 @@
 # Hi there, I'm Tarush 👋
 
-- 🔭 I’m currently working on IEEE TEMS Website and HospMan
-- 🌱 I’m currently learning Webdev, React and PyQT
-- 🥅 2023 Goals: Finish 2023
+- 🔭 I’m currently working on ProDev.AI
+- 🌱 I’m currently learning React, MySQL and LLM training
+- 🥅 2024 Goals: Finish 2024
 
 
 <!--Links-->
