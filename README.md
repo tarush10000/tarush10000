@@ -18,7 +18,8 @@
 #### IEEE TEMS Club Website
 <img src="https://github.com/tarush10000/tarush10000/assets/62472697/54860e2f-0c8e-447c-b617-407ade7f0a39" width="480" height="250">
 
-[Check the repo here](https://github.com/PIYUSH1927/IEEE_TEMS_WEBSITE) <br>
+[Check the repo here](https://github.com/tarush10000/TEMS-Static) <br>
+[Check the project here](https://ieeetemsvit.in)
 
 - **Languages Used:** HTML, CSS, Bootstrap, JavaScript
 - **Description:**  The official website for the IEEE TEMS club at VIT Vellore
