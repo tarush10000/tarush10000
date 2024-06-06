@@ -1,8 +1,8 @@
 # Hi there, I'm Tarush 👋
 
-- 🔭 I’m currently working on ProDev.AI
-- 🌱 I’m currently learning React, MySQL and LLM training
-- 🥅 2024 Goals: Finish 2024
+- 🔭 I’m currently working on Pokedex 2.0
+- 🌱 I’m currently learning Java and Flutter
+- 🥅 2024 Goals: Finish 2024 (Also Java)
 
 
 <!--Links-->
