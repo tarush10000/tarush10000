@@ -15,6 +15,26 @@
 
 ### Some of my projects
 
+#### Pokedex 2.0
+<img src="https://github.com/tarush10000/Pokedex2.0/assets/62472697/5284c288-5517-4a02-b985-3c5075b6722d" height="250">
+<img src="https://github.com/tarush10000/Pokedex2.0/assets/62472697/a262f291-91d0-493b-8dbf-a4b468a26076" height="250">
+<img src="https://github.com/tarush10000/Pokedex2.0/assets/62472697/3c177f91-c3cb-475f-a6ab-3e24defcc44d" height="250">
+<img src="https://github.com/tarush10000/Pokedex2.0/assets/62472697/a51a5adf-6324-4eb7-bf49-52511aed9ea9" height="250">
+
+[Check the repo here](https://github.com/tarush10000/Pokedex2.0) <br>
+
+- **Languages Used:** Flutter, Dart, SQLite, Gemini 1.5 Pro API
+- **Description:**  A Fun app that takes image input and assigns it Pokemon like stats and saves in device 
+
+
+#### ProDev.AI
+<img src="https://github.com/tarush10000/tarush10000/assets/62472697/54ff2f3b-90bf-4106-b749-49fa994154a7" width="480" height="250">
+
+[Check the repo here](https://github.com/tarush10000/ProDev.AI) <br>
+
+- **Languages Used:** Python, Ollama, Mistral-7b, Code Llama-13b, PyQt5
+- **Description:**  A Software Development helper that utilizes various LLM models (Mistral-7b, Code Llama-13b through Ollama) 
+
 #### IEEE TEMS Club Website
 <img src="https://github.com/tarush10000/tarush10000/assets/62472697/54860e2f-0c8e-447c-b617-407ade7f0a39" width="480" height="250">
 
