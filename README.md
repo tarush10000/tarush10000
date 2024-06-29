@@ -1,7 +1,7 @@
 # Hi there, I'm Tarush 👋
 
 - 🔭 I’m currently working on Pokedex 2.0
-- 🌱 I’m currently learning Java and Flutter
+- 🌱 I’m currently learning Java and Flutter, Prodev2.0
 - 🥅 2024 Goals: Finish 2024 (Also Java)
 
 
