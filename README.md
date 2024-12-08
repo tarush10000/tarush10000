@@ -61,7 +61,7 @@
 - **Description:**  The official website for the IEEE TEMS club at VIT Vellore
 
 #### The Indian Vidyarthi Website
-<img src="https://github.com/tarush10000/tarush10000/assets/62472697/cd9243af-f5dc-4e75-84bc-88611827571f" height="250">
+<img src="https://github.com/user-attachments/assets/6d1bf241-d1ee-4720-b2c3-21032b3124fa" height="250">
 
 [Check the repo here](https://github.com/tarush10000/theindianvidyarthi) <br>
 [Check the project here](https://indianvidyarthi.netlify.app/)
