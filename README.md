@@ -1,8 +1,8 @@
 # Hi there, I'm Tarush 👋
 
-- 🔭 I’m currently working at Sooru.AI
-- 🌱 I’m currently learning Django
-- 🥅 2025 Goals: Finish 2025 (Also Kubernetes & Docker)
+- 🔭 I’m currently working at Caterpillar
+- 🌱 I’m currently learning something
+- 🥅 2026 Goals: Finish 2026 (Also something cool)
 
 
 <!--Links-->
